@@ -1,0 +1,6 @@
+[submodule "src/omero-cli-zarr"]
+	path = src/omero-cli-zarr
+	url = git://github.com/ome/omero-cli-zarr
+[submodule "src/ome-zarr-py"]
+	path = src/ome-zarr-py
+	url = git://github.com/ome/ome-zarr-py
